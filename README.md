@@ -11,3 +11,8 @@ Projectweek1.ipynb - a notebook using Python3 was used for cleansing and EDA
 ## Approach
 
 Did not want to get rid of outliers as it representive of the process. However most relevant values for missing Nan and None and a check for duplicates was made.
+
+## License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
